@@ -98,9 +98,9 @@ analysis_data %>%
        y = "Vehicles + Special Equipment")
 ```
 
-The scatter plot does not reveal a clear negative relationship between reported casualties and vehicle or equipment losses. Instead, the relationship appears weak and approximately flat across most of the observed range.
+The scatter plot does not reveal a clear negative relationship between reported casualties and vehicle or equipment lossesInstead, the relationship appears weak and approximately flat across most of the observed range.
 
-A LOESS smoothing curve similarly shows no consistent downward trend that would indicate a trade-off between the two categories of loss.
+A LOESS smoothing curve similarly shows no consistent downward trend (sloping line from top left to bottom right) that would indicate a trade-off between the two categories of loss.
 
 ## Time Series of Reported Losses
 
@@ -155,7 +155,7 @@ The rolling mean reinforces this pattern, suggesting that vehicle losses are rel
 
 Two simple statistical checks were used to complement the visual analysis.\
 
-First, a Spearman rank correlation was calculated to assess the monotonic association between casualties and vehicle losses. If the hypothesis is correct the coefficient should be a negative value.
+First, a Spearman rank correlation was calculated to assess the monotonic association between casualties and vehicle losses. If the hypothesis is correct the coefficient should be a negative value, and a stronger correlation closer to (negative) one than zero.
 
 ```{r}
 # correlation (spearman's)
@@ -164,7 +164,7 @@ cor.test(analysis_data$Casualties,
     method = "spearman")
 ```
 
-Second, observations were divided into high and low groups using the median for each variable. If above average (high) vehicle (and special equipment) losses occurred when casualties were low, or vice versa, then high/low and low/high counts should be significantly larger than high/high and low/low. 
+Second, observations were divided into high and low groups using the median for each variable. If above average (high) vehicle (and special equipment) losses occurred when casualties were low, or vice versa, then high/low and low/high counts should be significantly larger than high/high and low/low.
 
 The contigency table was then tested using a chi-square test of independence to assess whether the observed distribution differed from what would be expected if the variables were unrelated.
 
@@ -188,7 +188,7 @@ analysis_data %>%
   with(chisq.test(table(Cas_level, Veh_level)))
 ```
 
-Both checks produced results consistent with the visual analysis. A negative correlation did not present in these data. High/low and low/high counts were not significantly larger than their like combination counterparts in the contingency table. The chi-square test of independence did not indicate a statistically meaningful association between the two variables.
+Both checks produced results consistent with the visual analysis. A negative correlation did not present in these data. High/low and low/high counts were not significantly larger than their like-combination counterparts in the contingency table. The chi-square test of independence did not indicate a statistically meaningful association between the two variables (where the p-value would normally be expected to be $< 0.05$).
 
 # Interpretation
 
@@ -224,3 +224,5 @@ All analysis was conducted in **R** (version 4.5.2, "[Not] Part in a Rumble") us
 -   **slider** (rolling mean calculations)
 
 The analysis relies exclusively on publicly available data from [Ragnar Gudmundsson’s dashboard of reported Russian battlefield losses](https://lookerstudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/p_70wiatllvd?s=up65eAX-um4). Code used to generate the figures can be executed directly within this document to reproduce the results.
+
+**Note: Some of this analysis was referenced by Professor Gerdes in his discussion of daily Ukrainian gains and Russian losses (5th March 2026). The segment discussing these plots can be viewed here: [Ukraine Sets Drone Strike Record Overnight - Russia Hit Hard](https://www.youtube.com/watch?v=fSv_dt_FMws&t=510s).**

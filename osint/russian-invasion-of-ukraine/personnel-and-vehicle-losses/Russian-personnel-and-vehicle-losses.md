@@ -129,12 +129,13 @@ analysis_data %>%
 ![](Russian-personnel-and-vehicle-losses_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 The scatter plot does not reveal a clear negative relationship between
-reported casualties and vehicle or equipment losses. Instead, the
+reported casualties and vehicle or equipment lossesInstead, the
 relationship appears weak and approximately flat across most of the
 observed range.
 
 A LOESS smoothing curve similarly shows no consistent downward trend
-that would indicate a trade-off between the two categories of loss.
+(sloping line from top left to bottom right) that would indicate a
+trade-off between the two categories of loss.
 
 ## Time Series of Reported Losses
 
@@ -199,7 +200,8 @@ analysis.
 
 First, a Spearman rank correlation was calculated to assess the
 monotonic association between casualties and vehicle losses. If the
-hypothesis is correct the coefficient should be a negative value.
+hypothesis is correct the coefficient should be a negative value, and a
+stronger correlation closer to (negative) one than zero.
 
 ``` r
 # correlation (spearman's)
@@ -262,10 +264,11 @@ analysis_data %>%
 
 Both checks produced results consistent with the visual analysis. A
 negative correlation did not present in these data. High/low and
-low/high counts were not significantly larger than their like
-combination counterparts in the contingency table. The chi-square test
-of independence did not indicate a statistically meaningful association
-between the two variables.
+low/high counts were not significantly larger than their
+like-combination counterparts in the contingency table. The chi-square
+test of independence did not indicate a statistically meaningful
+association between the two variables (where the p-value would normally
+be expected to be $< 0.05$).
 
 # Interpretation
 
@@ -326,3 +329,9 @@ Gudmundsson’s dashboard of reported Russian battlefield
 losses](https://lookerstudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/p_70wiatllvd?s=up65eAX-um4).
 Code used to generate the figures can be executed directly within this
 document to reproduce the results.
+
+**Note: Some of this analysis was referenced by Professor Gerdes in his
+discussion of daily Ukrainian gains and Russian losses (5th March 2026).
+The segment discussing these plots can be viewed here: [Ukraine Sets
+Drone Strike Record Overnight - Russia Hit
+Hard](https://www.youtube.com/watch?v=fSv_dt_FMws&t=510s).**
