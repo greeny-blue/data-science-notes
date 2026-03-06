@@ -4,11 +4,11 @@ These are substantial `R` / `Shiny` projects, both of which I authored and devel
 
 ## Chemometric analysis
 
-I used be a researcher where a core part of my role was chemometric analysis, specifically analysing chemical spectra. I wrote this app to save me having to do endlessly edit fiddly scripts. It's feature-rich, easy to use, free and open source, and has been adopted by several labs internationally. 
+I used be a researcher where a core part of my role was chemometric analysis, specifically analysing chemical spectra. I wrote this app to save me having to endlessly edit fiddly scripts. It's feature-rich, easy to use, free and open source, and has been adopted by several labs internationally. 
 
 <img src="images/SpxSpl stack screenshot.png">
 
-Highlights:
+#### Highlights:
   - **Flexible preprocessing using a `sortable` widget** that allows a variety of processing steps to be carried out in any order, with a minumum of fuss
   - Includes many commonly-used chemometric analyses, including **unsupervised (PCA, correlation, HCA) and supervised learning (RF, kNN, LDA)**
   - **A record of all the relevant parameters is saved** when an analysis is performed so you never need to remember what was done
@@ -26,6 +26,11 @@ I'm a big fan of the NFL, and I wanted more insight on the teams and their perfo
 <img src="images/NFL app screenshot.png">
 
 *Screenshot of v2, Week 17 of the 2024 season*
+
+#### Highlights:
+  - Clickable team selector using a very hacked `Plotly` output, `png` and team logos I downloaded from Wikipedia
+  - Automatically scrapes results and roster data, some using `nflfastR`
+  - Lots of stats!
 
 ---
 
