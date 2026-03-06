@@ -4,7 +4,7 @@ These are substantial R / Shiny projects that I authored and developed.
 
 For now, only screenshots are available, but I am happy to demo them if you contact me at the email address listed at the bottom of this document. I will upload the full projects here when I get the chance.
 
-## A Shiny application for exploratory chemometric analysis of spectral data.
+## [A Shiny application for exploratory chemometric analysis of spectral data](https://github.com/greeny-blue/data-science-notes/blob/main/interactive-apps/chemometric-app/README.md).
 
 I used to work as a researcher where a core part of my role was chemometric analysis, specifically analysing chemical spectra. I wrote this app to save myself from endlessly editing fiddly scripts. It is feature-rich, easy to use, free and open source, and has been adopted by several labs internationally.
 
