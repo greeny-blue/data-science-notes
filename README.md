@@ -18,7 +18,7 @@ It's **very much under construction** and intentionally informal $—$ a place f
 ---
 
 ### In [osint](https://github.com/greeny-blue/data-science-notes/tree/main/osint) you'll find odd bits of OSINT work I've done.
-  - [A Brief Exploratory Analysis of Reported Russian Casualties and Vehicle Losses](https://github.com/greeny-blue/data-science-notes/blob/main/osint/russian-invasion-of-ukraine/personnel-and-vehicle-losses/Russian-personnel-and-vehicle-losses.md). Some of this analysis was featured by Ukraine and geopolitics analyst Professor Darin Gerdes on his YouTube channel (5th March 2026).
+  - [A Brief Exploratory Analysis of Reported Russian Casualties and Vehicle Losses](https://github.com/greeny-blue/data-science-notes/blob/main/osint/russian-invasion-of-ukraine/personnel-and-vehicle-losses/Russian-personnel-and-vehicle-losses.md). Some of this analysis was featured by Ukraine and geopolitics analyst Professor Darin Gerdes on his [YouTube channel](https://www.youtube.com/@Professor-Gerdes) (5th March 2026).
 
 ---
 
