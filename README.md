@@ -21,3 +21,5 @@ It's **very much under construction** and intentionally informal $—$ a place f
   - [A Brief Exploratory Analysis of Reported Russian Casualties and Vehicle Losses](https://github.com/greeny-blue/data-science-notes/blob/main/osint/russian-invasion-of-ukraine/personnel-and-vehicle-losses/Russian-personnel-and-vehicle-losses.md). Some of this analysis was featured by Ukraine and geopolitics analyst Professor Darin Gerdes on his YouTube channel (5th March 2026).
 
 ---
+
+<img src="images/greeny-blue-email.png">
