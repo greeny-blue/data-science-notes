@@ -1,4 +1,6 @@
-# Interactive **R + Shiny** apps
+# Interactive **R / Shiny** apps
+
+These are substantial `R` / `Shiny` projects, both of which I authored and developed. Only screenshots are available at the moment but but I am happy to demo if you contact me on the email address given at the bottom of this document. I will get round to uploading them at some point.
 
 ## Chemometric analysis
 
@@ -25,3 +27,6 @@ I'm a big fan of the NFL, and I wanted more insight on the teams and their perfo
 
 *Screenshot of v2, Week 17 of the 2024 season*
 
+---
+
+<img src="images/greeny-blue-email.png">
