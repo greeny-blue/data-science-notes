@@ -5,7 +5,9 @@ It's **very much under construction** and intentionally informal $—$ a place f
 
 ---
 
-### [interactive-apps](https://github.com/greeny-blue/data-science-notes/tree/main/interactive-apps) has substantial R / Shiny projects that I authored and developed. Currently just screenshots but the code will be uploaded when I get the chance.
+### [interactive-apps](https://github.com/greeny-blue/data-science-notes/tree/main/interactive-apps) has substantial R / Shiny projects that I authored and developed. 
+
+Currently just screenshots but the code will be uploaded when I get the chance.
 
 ---
 
