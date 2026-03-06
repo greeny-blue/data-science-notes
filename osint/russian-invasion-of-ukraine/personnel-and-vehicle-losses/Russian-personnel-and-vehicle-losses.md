@@ -129,7 +129,7 @@ analysis_data %>%
 ![](Russian-personnel-and-vehicle-losses_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 The scatter plot does not reveal a clear negative relationship between
-reported casualties and vehicle or equipment lossesInstead, the
+reported casualties and vehicle or equipment losses. Instead, the
 relationship appears weak and approximately flat across most of the
 observed range.
 
@@ -325,13 +325,11 @@ implemented using widely used open-source packages, including:
 - **slider** (rolling mean calculations)
 
 The analysis relies exclusively on publicly available data from [Ragnar
-Gudmundsson’s dashboard of reported Russian battlefield
-losses](https://lookerstudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/p_70wiatllvd?s=up65eAX-um4).
-Code used to generate the figures can be executed directly within this
-document to reproduce the results.
+Gudmundsson’s dashboard of reported Russian battlefield losses](https://lookerstudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/p_70wiatllvd?s=up65eAX-um4).
+By downloading and opening the `.Rmd` within R Studio, the code used to generate the figures can be executed directly to reproduce the results.
 
 **Note: Some of this analysis was referenced by Professor Gerdes in his
-discussion of daily Ukrainian gains and Russian losses (5th March 2026).
+discussion of daily Ukrainian and Russian gains and losses on the battlefield (5th March 2026).
 The segment discussing these plots can be viewed here: [Ukraine Sets
 Drone Strike Record Overnight - Russia Hit
 Hard](https://www.youtube.com/watch?v=fSv_dt_FMws&t=510s).**
