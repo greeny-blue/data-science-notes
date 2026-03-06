@@ -1,7 +1,9 @@
-# data-science-notes
-This repository is where I collect small experiments, intuition-building notebooks, a machine learning "curiosity corner”, little examples of OSINT work, etc.
+# Data Science Notes
+This repository is where I collect various projects: experiments, intuition-building notebooks, a machine learning "curiosity corner”, etc.
 
-It's very much under construction and intentionally informal — a place for interesting ideas and small demonstrations rather than polished portfolio projects.
+It's **very much under construction** and intentionally informal $—$ a place for interesting ideas and small demonstrations rather than big, polished portfolio projects.
+
+---
 
 ### In [ml-curiosity-corner](https://github.com/greeny-blue/data-science-notes/tree/main/ml-curiosity-corner) you'll find:
 
@@ -11,8 +13,11 @@ It's very much under construction and intentionally informal — a place for int
     - [#3 Models Produce Answers, Not Understanding](https://github.com/greeny-blue/data-science-notes/blob/main/ml-curiosity-corner/meditations-on-modelling/Meditation-003-Models_produce_answers_imgfix.ipynb)
 
   - **[Extreme Examples](https://github.com/greeny-blue/data-science-notes/tree/main/ml-curiosity-corner/extreme-examples)** - simple and extreme example experiments that explore and highlight interesting behaviour in machine learning systems (that everyone doing ML should be aware of!).
-    - [Noise and High Dimensional Data](https://github.com/greeny-blue/data-science-notes/tree/main/ml-curiosity-corner/extreme-examples)
+    - [Noise and High Dimensional Data](https://github.com/greeny-blue/data-science-notes/blob/main/ml-curiosity-corner/extreme-examples/Extreme%20examples%20-%20Noise%20and%20high-dimensional%20data.ipynb)
 
+---
 
 ### In [osint](https://github.com/greeny-blue/data-science-notes/tree/main/osint) you'll find odd bits of OSINT work I've done.
   - [A Brief Exploratory Analysis of Reported Russian Casualties and Vehicle Losses](https://github.com/greeny-blue/data-science-notes/blob/main/osint/russian-invasion-of-ukraine/personnel-and-vehicle-losses/Russian-personnel-and-vehicle-losses.md). Some of this analysis was featured by Ukraine and geopolitics analyst Professor Darin Gerdes on his YouTube channel (5th March 2026).
+
+---
