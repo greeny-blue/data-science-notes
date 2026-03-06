@@ -29,4 +29,4 @@ I'm a big fan of the NFL, and I wanted more insight on the teams and their perfo
 
 ---
 
-<img src="images/greeny-blue-email.png width="350">
+<img src="images/greeny-blue-email.png" width="300">
