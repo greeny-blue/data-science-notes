@@ -5,6 +5,10 @@ It's **very much under construction** and intentionally informal $—$ a place f
 
 ---
 
+### [interactive-apps](https://github.com/greeny-blue/data-science-notes/tree/main/interactive-apps) has substantial R / Shiny projects that I authored and developed. Currently just screenshots but the code will be uploaded when I get the chance.
+
+---
+
 ### In [ml-curiosity-corner](https://github.com/greeny-blue/data-science-notes/tree/main/ml-curiosity-corner) you'll find:
 
   - **[Meditations on Modelling](https://github.com/greeny-blue/data-science-notes/tree/main/ml-curiosity-corner/meditations-on-modelling)** - short (and possibly thought-provoking) reflections on machine learning and artificial intelligence, our use of them and their limits.
