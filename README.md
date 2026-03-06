@@ -22,4 +22,4 @@ It's **very much under construction** and intentionally informal $—$ a place f
 
 ---
 
-<img src="images/greeny-blue-email.png", width="200>
+<img src="images/greeny-blue-email.png", width="200">
