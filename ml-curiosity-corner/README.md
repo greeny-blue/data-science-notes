@@ -1,6 +1,6 @@
 # ML Curiosity Corner
 
-This is a collection of fun, curiosity-driven articles and experiments that constitute my take on the philosophy and practice of machine learning. *Extreme examples* demonstrate certain behaviour in models, while *Meditations on Modelling* explore simple ideas that help build intuition about how modelling can be approached, how algorithms interact with data, etc.
+This is a collection of fun, curiosity-driven articles and experiments that constitute my take on the philosophy and practice of machine learning. *Extreme Examples* demonstrate certain behaviour in models, while *Meditations on Modelling* explore simple ideas that help build intuition about how modelling can be approached, how algorithms interact with data, etc.
 
 They're more small, contained intellectual detours rather than formal tutorials.
 
