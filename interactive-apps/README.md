@@ -13,14 +13,14 @@ I used to work as a researcher where a core part of my role was chemometric anal
 *Screenshot showing a stack of spectra with the Plotly "hover" output enriched with metadata*
 
 #### Highlights:
-- **Flexible preprocessing using a `sortable` widget**, allowing a variety of processing steps to be applied in any order with a minimum of fuss
-- Includes many commonly used chemometric analyses, including **unsupervised (PCA, correlation, HCA) and supervised learning (RF, kNN, LDA)**
-- **A record of all relevant parameters is saved** whenever an analysis is performed, so you never need to remember exactly what was done
-- **Interactive `Plotly` plots throughout**, enriched with metadata to aid interpretation
-- **All objects can be exported** so further analysis can be performed in `R`
-- Produces customisable **publication-ready plots**; exported objects also carry plotting metadata and can be easily edited or manipulated with helper functions
-- **State saving** allows analyses to be shared and restored, which is useful for collaboration and review
-- **Reproducible seeds** are used for any functions involving randomisation (e.g. supervised learning algorithms), ensuring analyses are reproducible
+- **Flexible preprocessing using a `sortable` widget**, allowing a variety of processing steps to be applied in any order with a lot of control and a minimum of fuss; the control panel automatically displays/hides relevant parameters based on your desired workflow.
+- Includes many commonly used chemometric analyses, including **unsupervised (PCA, correlation, HCA)** and **supervised learning (RF, kNN, LDA)**.
+- **A record of all relevant parameters is saved** whenever an analysis is performed, so you never need to remember exactly what was done.
+- **Interactive `Plotly` plots throughout**, where hovering on data brings up enriching metadata or further plots to aid interpretation.
+- **All objects can be exported** so further analysis can be performed in **R**.
+- Produces customisable **publication-ready plots**; exported objects also carry plotting metadata and can be easily edited or manipulated with helper functions.
+- **State saving** allows analyses to be shared and restored, which is useful for collaboration and review.
+- **Reproducible seeds** are used for any functions involving randomisation (e.g., supervised learning algorithms), ensuring analyses are reproducible.
 
 
 ## A Shiny application for the analysis of NFL team and player performance
