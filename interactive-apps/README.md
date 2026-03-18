@@ -36,6 +36,25 @@ I'm a big fan of the NFL, and I wanted a bit more insight into team and player p
 - Automatically scrapes results and roster data, some via `nflfastR`
 - Lots of stats!
 
+
+## [PacketScopeR: Interactive PCAP Explorer](https://github.com/greeny-blue/packetscoper)  
+
+PacketScopeR is a lightweight interactive application for exploring network traffic data from PCAP files. It enables rapid inspection of network behaviour for triage and anomaly detection by transforming parsed packet data into structured summaries and visualisations. The tool focuses on clarity and usability, allowing users to filter traffic by network scope and quickly identify key features such as frequently observed IPs or other variables of interest. This is a less substantial app (it took a couple of hours) but is a precursor to a more sophisticated app.
+
+<img src="images/PacketScopeR screenshot.png">
+<i>PacketScopeR screenshot</i>
+
+#### Highlights:
+
+- Interactive exploration of parsed PCAP data through a web-based interface  
+- Dynamic classification of traffic (internal, external, and mixed) based on user-defined network ranges  
+- Flexible filtering to isolate relevant subsets of network activity  
+- Real-time aggregation and visualisation of selected variables  
+- Numerical IP sorting for meaningful ordering of network entities  
+- Integrated tabular and graphical views for complementary analysis  
+- Dark mode support
+- Designed as a foundation for future extensions such as IP enrichment, DNS resolution, and anomaly detection  
+
 ---
 
 <img src="images/greeny-blue-email.png" width="300">
