@@ -194,3 +194,9 @@ strain, while Ukrainian capabilities are improving, shifting the balance
 toward net attrition in several plausible scenarios.
 
 ------------------------------------------------------------------------
+
+## Conclusion
+
+Although a net loss of ~7,000 personnel per month appears substantial, set against Russian estimates of roughly 600,000–700,000 troops on the front line it would imply a very gradual depletion — on the order of many years if taken in isolation. In practice, however, such a process would not need to run to completion to have meaningful effects: even steady attrition at this scale is likely to erode combat effectiveness, reduce operational flexibility, and increase reliance on less experienced personnel over time. At the same time, Russia retains the capacity to offset losses through further mobilisation efforts, though there are indications these may be becoming more constrained or less visible. Any newly recruited forces are also likely to be less trained and less effective, reinforcing the broader dynamic in which quality, not just quantity, becomes increasingly important as the conflict evolves.
+
+---
