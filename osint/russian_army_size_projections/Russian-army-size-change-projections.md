@@ -11,7 +11,7 @@ Smart](https://www.youtube.com/@JasonJaySmart) suggests this figure at
 approximately the 4-minute mark.
 
 - Video: [Russia Is COLLAPSING
-  Fast](https://www.youtube.com/watch?v=vQzsLM6bjCs)\
+  Fast](https://www.youtube.com/watch?v=vQzsLM6bjCs)
 - Timestamped link: <https://www.youtube.com/watch?v=vQzsLM6bjCs&t=230>
 
 ------------------------------------------------------------------------
