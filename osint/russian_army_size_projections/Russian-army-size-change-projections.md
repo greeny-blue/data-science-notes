@@ -26,6 +26,15 @@ producing large cumulative effects over time.
 
 ------------------------------------------------------------------------
 
+## Data
+
+This analysis uses daily loss estimates compiled by Ragnar Gudmundsson
+and presented through the publicly available [dashboard of reported
+Russian battlefield
+losses](https://lookerstudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/p_70wiatllvd?s=up65eAX-um4).
+
+------------------------------------------------------------------------
+
 ## Code and Plot
 
 ``` r
