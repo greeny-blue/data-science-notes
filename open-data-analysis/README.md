@@ -1,4 +1,4 @@
-# Open-source data analysis
+# Open-Source Data Analysis
 
 These are some small examples of information from the internet that I've analysed to investigate things I'm interested in.
 
