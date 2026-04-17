@@ -1,4 +1,4 @@
-# OSINT
+# Open-source data analysis
 
 These are some small examples of information from the internet that I've analysed to investigate things I'm interested in.
 
